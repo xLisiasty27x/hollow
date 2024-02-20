@@ -1,0 +1,129 @@
+*{
+		margin: 0;
+		padding: 0;
+		font-family: Trajan Pro;
+		color: white;
+}
+body{
+		background-image: url("1.png");
+}
+section{
+		overflow: hidden;
+}
+#ramka{
+		width: 999px;
+		margin-left: auto;
+		margin-right: auto;
+}
+#naglowek{
+		width: 100%;
+		background-color: #011433;
+		font-size: 12pt;
+		color:#5e1138; 
+		font-weight: bold;
+		text-align: center;
+		color: white;
+}
+#stopka{
+		width: 100%;
+		color: white;
+		background-color: #011433;
+		clear: both;
+		padding: 5px;
+		text-align: center;
+}
+.kolumny{
+		margin-top: 10px;
+		margin-right: 2%;
+		margin-bottom: 2%;
+		margin-left: 10px;
+		float: left;
+		background-color: #04143b;
+}
+#kol1{
+		width: 180px;
+		/*background-color: #3FF;*/
+}
+#kol2{
+		width: 490px;
+		/*background-color: #CF3;*/
+}
+#kol3{
+		width: 200px;
+		/*background-color: #F93;*/
+}
+.artykul{
+		background-color: #054e80;
+		padding: 5px;
+		margin: 4px;
+}
+ul{
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		background-color: #054e80;
+}
+li{
+		float: left;
+}
+li a{
+		display: block;
+		color: white;
+		text-align: center;
+		padding: 14px 16px;
+		text-decoration: none;
+}
+li a:hover{
+		background-color: #0d6ba1;
+}
+.kolgal{
+		width: 469px;
+		margin-top: 10px;
+		margin-right: 2%;
+		margin-bottom: 2%;
+		margin-left: 10px;
+		float: left;
+		background-color: #04143b;
+		text-align: center;
+}
+.hn_msk{
+		float: left;
+}
+.hn_mskp{
+		float: right;
+}
+.zdr{
+		text-align: center;
+}
+#test{
+		float: center;
+}
+#art2_4{
+		position: relative;
+		height: 155px;
+}
+#ost{
+		position: absolute;
+}
+#umi{
+		position: absolute;
+		left: 87px;
+}
+#mag{
+		position: absolute;
+		left: 87px;
+		top: 108px;
+}
+#art222{
+		position: relative;
+		height: 133px;
+}
+#op1{
+		position: absolute;
+		
+}
+#op2{
+		position: absolute;
+		right: 5px;
+}
